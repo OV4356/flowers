@@ -63,6 +63,9 @@ header button{
 figcaption{
 	text-align:center;
 }
+.square a {
+	text-decoration: none;
+}
 .square figure{
 	background-color:Silver;
 	width:450px;
