@@ -1,0 +1,53 @@
+header{
+	background-image:url("https://s1.1zoom.ru/b5050/592/Tulips_Fields_Pink_color_545751_1920x1080.jpg");
+	background-size:100%;
+	height:250px;
+}
+header a{
+	background-color:Silver;
+	font-size:25px;
+	color:black;
+	text-decoration:none;
+	padding:10px;
+}
+h1{
+	position:relative;
+	left:40%;
+	top:100px;
+	font-family:Trattatello, fantasy;
+	color:white;
+	text-shadow:2px 3px 0px black;
+	font-size:45px;
+	width:500px;
+	margin-right:0px;
+}
+h2{
+	text-align:center;
+}
+main p{
+	background-color:Silver;
+	width:1000px;
+	padding:10px;
+}
+ul{
+	background-color:Silver;
+	width:700px;
+	text-align:left;
+	list-style:url("тюльп.png");
+}
+p, ul{
+	font-size:25px;
+}
+body{
+	margin:0px;
+}
+main{
+	text-align:left;
+}
+footer{
+	background-color:Silver;
+	padding:10px;
+}
+footer p{
+	font-size:30px;
+}
