@@ -39,5 +39,5 @@ main{
 	background:url("image2.png") no-repeat 10% 40%;
 }
 li{
-	list-style:url("image1.png");
+	list-style:url("image1.png"); 
 }
